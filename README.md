@@ -222,7 +222,7 @@ OpenAiProvider(
 ```dart
 AnthropicProvider(
   apiKey: 'sk-ant-…',
-  defaultModel: 'claude-3-5-haiku-20241022',
+  defaultModel: 'claude-3-5-haiku-20261022',
   maxTokens: 4096,
 )
 ```
@@ -816,7 +816,7 @@ final suggestion = await pipeline.ask(
 ```
 MIT License
 
-Copyright (c) 2024 TIMSoft
+Copyright (c) 2026 TIMSoft
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
